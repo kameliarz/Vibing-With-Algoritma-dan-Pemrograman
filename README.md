@@ -1,4 +1,4 @@
-# 🌱 Algoritma dan Pemrograman
+# </> Algoritma dan Pemrograman
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=A6FF00&center=true&vCenter=true&width=600&height=70&lines=Algoritma+dan+Pemrograman;Ngalgo+Banget+Pokoknya!;Semangat+Belajar!+!" alt="Typing SVG" />
